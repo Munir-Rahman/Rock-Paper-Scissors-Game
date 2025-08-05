@@ -6,7 +6,7 @@ Built using **HTML**, **CSS**, and **JavaScript**, the game provides real-time f
 ---
 ## 📸 Screenshot
 
-![Game Screenshot](./images/gamw-image.png) 
+![Game Screenshot](./images/game-image.png) 
 
 ---
 
