@@ -4,6 +4,11 @@ A fun and interactive **Rock-Paper-Scissors** game where you play against the co
 Built using **HTML**, **CSS**, and **JavaScript**, the game provides real-time feedback, score tracking, and a clean user interface.
 
 ---
+## 📸 Screenshot
+
+![Game Screenshot](./img/gamw-image.png) 
+
+---
 
 ## 🚀 Features
 
