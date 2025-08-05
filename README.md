@@ -36,10 +36,14 @@ cd rock-paper-scissors-game
 Open the index.html file in your web browser. No installation required.
 rock-paper-scissors-game/
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 ├── img/
 │   └── rps-game-screenshot.png
+
 └── README.md
 
 ## 🔑 Game Logic
