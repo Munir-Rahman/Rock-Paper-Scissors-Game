@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Rock Paper Sciessor Game</title>
+    <meta charset="UTF-8"/>
+    <meta name="description" content="Play Free Rock Paper Sciessor Game online. A Simple and Fun 1-Player and Robot game buit with HTML, CSS, JavaScript, No Download Required!"/>
+    <meta name="keywords" content="Rock Paper Sciessor, XO game, tic tac toe Online, HTML game, JavaScript Game, 1 Player and Robot Game, Fun Game, Play Rock Paper Sciessor"/>
+    <meta name="author" content="Munir Rahman"/>
+    <meta property="og:title" content="Rock Paper Sciessor Game"/>
+    <meta property="og:description" content="Play Free Rock Paper Sciessor Game online. A Simple and Fun 1-Player and Robot game buit with HTML, CSS, JavaScript, No Download Required!"/>
+    <meta property="og:type" content="website"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Rock Paper Scissor</h1>
+    </header>
+
+    <main>
+        <div class="choices">
+            <div class="choice" id="rock"><img src="./images/paper.JPG" alt="Rock"></div>
+            <div class="choice" id="paper"><img src="./images/rock.JPG" alt="Paper"></div>
+            <div class="choice" id="scissor"><img src="./images/sesier.JPG" alt="Scissor"></div>
+        </div>
+
+        <div class="score-board">
+            <div class="score">
+                <div class="user">
+                    <p id="user-score">0</p>
+                    <p>You</p>
+                </div>
+            </div>
+            <div class="score">
+                <div class="comp">
+                    <p id="comp-score">0</p>
+                    <p>Robot</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="score-message">
+            <p id="msg">Pick Your Move</p>
+        </div>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
